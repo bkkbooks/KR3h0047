@@ -1,0 +1,136 @@
+canonical_identifier: bkk:krp/KR3h0047/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3h0047/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 書畫跋跋
+  date: '2015-08-24 23:15:17.491705'
+  source:
+    repository: kanripo
+    path: KR3h0047
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3h0047_000-WYG.yaml, hash: 'sha256:0e34ba3d1943b2c3af734d930508a614c5da7e8f7c138f4b4c004c54b87ad954'}
+  - {seq: 1, filename: KR3h0047_001-WYG.yaml, hash: 'sha256:297927538e276ed675373480171f4edde5fd7d6deca29aa11d94d14dfd7d6535'}
+  - {seq: 2, filename: KR3h0047_002-WYG.yaml, hash: 'sha256:c91f22500f02cbb1b07314dee831c048aab5a5ff1219d62dfad2e0839bbc0b60'}
+  - {seq: 3, filename: KR3h0047_003-WYG.yaml, hash: 'sha256:bd282ead085392e5f0bf60ab45545182fe24abebf0464a12f8e3c49f527c7284'}
+  - {seq: 4, filename: KR3h0047_004-WYG.yaml, hash: 'sha256:da515661107764b4183e001f73c30b090f49e9ac87aa6c2d1a6fb44f0d1bfd84'}
+  - {seq: 5, filename: KR3h0047_005-WYG.yaml, hash: 'sha256:4d618abe3f5375b6e4a43163d3297d0c2315c28c708bb6c602f512a9e6a4d5bb'}
+  - {seq: 6, filename: KR3h0047_006-WYG.yaml, hash: 'sha256:3e378794f9eb7257953382ac4b687b692b378d83db9495a2a6ab48168792bf90'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3h0047_000-WYG.markers.yaml, hash: 'sha256:27b9c1fafaab6722ea03c58b7dfdceb5c3fb50f00570e1ae8f0573b435311ef4'}
+  - {seq: 1, role: markers, filename: assets/KR3h0047_001-WYG.markers.yaml, hash: 'sha256:679688f8260daa955bfe87b312bd4db6dcf3c437f37663c56a12f2decbc01a71'}
+  - {seq: 2, role: markers, filename: assets/KR3h0047_002-WYG.markers.yaml, hash: 'sha256:633df2904da3011981ed17a47175c290465558c441db16dada906a68dadef0dd'}
+  - {seq: 3, role: markers, filename: assets/KR3h0047_003-WYG.markers.yaml, hash: 'sha256:7e30386ab685a8dd70a69260aa5152adc95a6a89fa6ebf73eeef420c7103cf82'}
+  - {seq: 4, role: markers, filename: assets/KR3h0047_004-WYG.markers.yaml, hash: 'sha256:937cb0b56469cfeb60326755990ca501437fa5ada9952181fbefe44f93491c9b'}
+  - {seq: 5, role: markers, filename: assets/KR3h0047_005-WYG.markers.yaml, hash: 'sha256:5b8a1a5d7b5d396b81a29f56ac4af96f88fa480e80b5dd6072966d4e6cb189f3'}
+  - {seq: 6, role: markers, filename: assets/KR3h0047_006-WYG.markers.yaml, hash: 'sha256:9a55d0b4e0a8ef1cbfc0b9dd240fdd4528420731320b8a399710456e83db93ef'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3h0047_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 404
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3h0047_WYG_000-3a
+    span:
+    - body
+    - 404
+    - 950
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3h0047_WYG_000-5a
+    span:
+    - body
+    - 950
+    - 1642
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3h0047_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 16661
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3h0047_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 16254
+  label: 卷二上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3h0047_WYG_002-50a
+    span:
+    - body
+    - 16254
+    - 33411
+  label: 卷二下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3h0047_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 13218
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3h0047_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 21037
+  label: 續卷一
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3h0047_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 5283
+  label: 續卷二
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3h0047_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 6887
+  label: 續卷三
+  type: section
+  level: 1
+hash: sha256:7a81866b4b611fe482d7d5a3db1026629b727bb30da8046be6c173c3ec9df2c9
